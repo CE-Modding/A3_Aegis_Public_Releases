@@ -1180,6 +1180,7 @@ class CfgVehicles
 			{
 				weapon="weap_gsh30";
 				source="ammorandom";
+				
 			};
 			class muzzle_hide_hmg
 			{
